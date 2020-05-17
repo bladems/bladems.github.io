@@ -12,15 +12,17 @@ body {
 .topbutton {
 	color: white;
 	text-decoration: none;
-	font-size: 1vw;
+	font-size: 2vw;
 	padding-left: 0.5vw;
 	padding-right: 0.5vw;
+	height: 4vw;
 }
 
 #topbar {
 	width: 100%;
 	align-content: flex-end;
 	background-color: #1b1d1f;
+	height: 6vw;
 }
 
 * {
