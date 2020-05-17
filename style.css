@@ -20,6 +20,10 @@ body {
 	height: 4vw;
 }
 
+.topbutton:hover {
+	background-color: #131056;
+}
+
 #topbar {
 	width: 100%;
 	background-color: #232066;
