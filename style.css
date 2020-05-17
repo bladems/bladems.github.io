@@ -16,14 +16,14 @@ body {
 	padding-left: 0.5vw;
 	padding-right: 0.5vw;
 	height: 4vw;
-	float: right;
+	flex-direction: column;
+	align-self: center;
 }
 
 #topbar {
 	width: 100%;
 	background-color: #1b1d1f;
 	height: 4vw;
-	justify-content: flex-end;
 }
 
 * {
