@@ -3,10 +3,10 @@
 	src: url(data/Roboto-Regular.ttf);
 }
 
-
-
 body {
 	background-color: #2b2d2f;
+	padding: 0px;
+	margin: 0px;
 }
 
 .topbutton {
