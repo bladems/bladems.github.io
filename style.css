@@ -20,9 +20,9 @@ body {
 
 #topbar {
 	width: 100%;
-	align-content: flex-end;
 	background-color: #1b1d1f;
-	height: 4.2vw;
+	height: 4vw;
+	justify-content: flex-end;
 }
 
 * {
