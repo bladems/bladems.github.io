@@ -1,6 +1,6 @@
 @font-face {
-	font-family: Roboto;
-	src: url(data/Roboto-Regular.ttf);
+	font-family: Noto;
+	src: url(data/NotoSans-Regular.ttf);
 }
 
 body {
@@ -30,7 +30,7 @@ body {
 }
 
 * {
-	font-family: Roboto, Arial, Helvetica, sans-serif;
+	font-family: Noto, Arial, Helvetica, sans-serif;
 }
 
 p {
